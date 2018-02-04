@@ -1,4 +1,4 @@
-# sessiontest
+# Compojure Session
 
 FIXME
 
